@@ -1,0 +1,7 @@
+1) look up float points in 377 book page 150?
+2) find accurate map of Maine
+3) get meridians for Maine (find the longatude split of maine) (use as meridian float)
+4) find upper point (latatude)
+5) find lower point (latatude)
+6) use google maps to find lat and long for corners of map (top left and bottom right)
+7)
